@@ -86,6 +86,7 @@ The current list includes both open and closed source ECS implementations, and e
 - [Shipyard](https://github.com/leudz/shipyard) (Rust, Apache/MIT)
 - [Specs](https://github.com/amethyst/specs) (Rust, Apache/MIT)
 - [Svelto](https://github.com/sebas77/Svelto.ECS) (C#, MIT)
+- [Swash](https://github.com/johnrnyquist/Swash) (Swift)
 - [Unity DOTS](https://unity.com/dots) (C#, Commercial license)
 - [Unreal Mass](https://docs.unrealengine.com/5.0/en-US/overview-of-mass-entity-in-unreal-engine/) (C++, Commercial license)
 - [Zig ECS](https://github.com/prime31/zig-ecs) (Zig, MIT)
